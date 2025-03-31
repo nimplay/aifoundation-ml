@@ -46,4 +46,22 @@ Homogeneity
 Silhouette Score
 Completeness
 
+Training Machine Learning Model (Simplest version):
+
+Step 1
+    Data Preparation
+      Split the data into train, validation and test.
+Step 2
+    Model Trainig
+      Train the model on the training data and save the fitted model.
+Step 3
+    Hyper-Parameter Tuning
+      Use the fitted Model and Validation Set to find the optimal set of parameters where the model performs the best.
+Step 4
+    Prediction
+      Use the optimal set of parameters from Hyper-Parameter Tunning data, to train the model again with these hyeper parameters, use this best fitted model to predictions on test data.
+Step 5
+    Test Error Rate
+      Compute the performance metrics for your model using the predictions and real values of the target variable from your test data.
+
 
