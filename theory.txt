@@ -136,3 +136,15 @@ Lasso Regression or L1 regularization:
  L1 Norm and Lasso Regression
    L1 Norm is a mathematical term coming from Linear Algebra and it stands for a
    Manhattan norm or distance
+
+  Pros and Cons
+   Pros
+   1. Solves Overfitting
+   2. Easy to understand
+   3. High interpretability
+   4. Feature selection
+
+   Cons
+   1. Higher variance than Ridge
+
+
