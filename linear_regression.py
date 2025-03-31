@@ -43,7 +43,7 @@ print(f"Predicted Test Scores for Class Size {y_pred}: {predicted_spend[0]}")
 # Plot the data and the regression line
 plt.scatter(X, y, color='blue', label='Data Points')
 plt.plot(X, reg.predict(X), color='red', label='Regression Line')
-plt.title('Linear Regression: Class Size vs Test Scores')
+plt.title('Logistic Regression: Class Size vs Test Scores')
 plt.xlabel('Class Size')
 plt.ylabel('Test Scores')
 plt.grid(True)

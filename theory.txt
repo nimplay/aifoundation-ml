@@ -186,4 +186,11 @@ Linear Regression:
 
 top 10 algorithms
   1.Linear Regression
-  
+      Examples:
+        a. Real State Pricing
+        b. Credit Scoring
+        c. Supply Chain Costs
+        d. Healthcare
+        e. Academic Performance
+        f. Energy Consumption
+  2. Logistic Regression
