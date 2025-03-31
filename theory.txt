@@ -100,4 +100,24 @@ How to fix Overfitting?
  5. Ensemble Methods
  6. Dropout
 
- 
+ Regularization or Shrinkage:
+
+ Regularization or Shrinkage is a method that shrinks some of the estimated coefficiente towards zero,
+ to penalize unimportant variables for increasing the variance of the model
+  - Use solve the overfitting problem
+  - Introduces a little bias in the model to increase its variance
+
+  1. Ridge Regression based on L2 norm
+  2. Lasso Regression based on L1 norm
+  3. Dropout (in NN)
+
+Ridge Regression or L2 regularization:
+
+Ridge Regression or L2 regularization is a shrinkage technique that aims to solve
+Overfitting by shrinking some of the model coefficients towards 0
+
+L2 Norm and Ridge Regression:
+
+L2 Norm is a mathematical term comin from linear algebra and it stands for Euclidean norm or distance
+
+
