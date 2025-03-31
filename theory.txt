@@ -113,11 +113,26 @@ How to fix Overfitting?
 
 Ridge Regression or L2 regularization:
 
-Ridge Regression or L2 regularization is a shrinkage technique that aims to solve
-Overfitting by shrinking some of the model coefficients towards 0
+  Ridge Regression or L2 regularization is a shrinkage technique that aims to solve
+  Overfitting by shrinking some of the model coefficients towards 0
 
-L2 Norm and Ridge Regression:
+  L2 Norm and Ridge Regression:
+    L2 Norm is a mathematical term comin from linear algebra and it stands for Euclidean norm or distance
 
-L2 Norm is a mathematical term comin from linear algebra and it stands for Euclidean norm or distance
+  Pros and cons
 
+  Pros
+  1 Solves overfitting
+  2 Lower model variance
+  3 Computationally cheap
 
+  Cons
+  1 Low interpretability
+
+Lasso Regression or L1 regularization:
+ It is a shrinkage technique that aims to solve Overfitting by shrinking
+ some of the model coefficients towards 0 and setting some to exactly 0
+
+ L1 Norm and Lasso Regression
+   L1 Norm is a mathematical term coming from Linear Algebra and it stands for a
+   Manhattan norm or distance
