@@ -78,4 +78,26 @@ Error:
 
 Error of Machine Learning model assuming model is trained on (X1, Y1) (X2, Y2)...(Xn, Yn) to estimate the value of Y0
 
+Bias-Variance Trade-off:
 
+In order to minimize the expected test error rate, we need to select a Machine Learning method that simultaneously
+achieves low variance and low bias
+
+  -Negative correlation between Variance and Bias of model
+  -ML model's flexibility has direct impact on its Variance/Bias
+
+Overfitting:
+
+Overfitting occurs when the model performs well in the training (low train error rate) while performs worse on the test
+data (high test error rate)
+
+How to fix Overfitting?
+
+ 1. Reduce the complexity of model
+ 2. Collect more data
+ 3.  Use Resampling Technique (CV)
+ 4. Early Stopping
+ 5. Ensemble Methods
+ 6. Dropout
+
+ 
