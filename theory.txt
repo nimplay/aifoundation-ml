@@ -155,8 +155,20 @@ Linear Regression:
   It is a statistical method that can help to model the impact of a unit change in a
   variable(independent variable) on the values of another target variable(dependent variable),
   when the relationship between two variables is linear
-  
+
    - 1 independent Variable => Simple Linear Regression
    - 2 or more Independent Variables => Multiple Linear Regression
 
+Linear Regression Estimating
+  Ordinary Least Square(OLS):
+    It is an estimation technique for estimating unknown parameters in a linear regression model
+    to predict the response dependent variables(eg. B0,B1, etc)
+
+Linear Regression Assumptions
+  OLS makes the following assumption which need to be satisfied to get a reliable prediction results:
+    1. A1 Linearity: model is linear in parameters
+    2. A2 Random Sample: all observations in the sample are randomly selected
+    3. A3 Exogeneity: each independent variable is uncorrelated with the error terms
+    4. A4 Homoscedasticity: variance of all error terms is constant
+    5. A5 No Perfect MultiCollinearity: there are no exact linear relationship between the independent variables
 
