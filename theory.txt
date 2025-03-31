@@ -147,4 +147,16 @@ Lasso Regression or L1 regularization:
    Cons
    1. Higher variance than Ridge
 
+Statistical Significant Effects:
+  It means that this effecs is unlikely to have occurred by chance. In order words,
+  a statistically significant effect is one that is likely to be real and not due to random chance
+
+Linear Regression:
+  It is a statistical method that can help to model the impact of a unit change in a
+  variable(independent variable) on the values of another target variable(dependent variable),
+  when the relationship between two variables is linear
+  
+   - 1 independent Variable => Simple Linear Regression
+   - 2 or more Independent Variables => Multiple Linear Regression
+
 
