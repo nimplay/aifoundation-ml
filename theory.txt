@@ -159,16 +159,31 @@ Linear Regression:
    - 1 independent Variable => Simple Linear Regression
    - 2 or more Independent Variables => Multiple Linear Regression
 
-Linear Regression Estimating
-  Ordinary Least Square(OLS):
-    It is an estimation technique for estimating unknown parameters in a linear regression model
-    to predict the response dependent variables(eg. B0,B1, etc)
+  Linear Regression Estimating
+    Ordinary Least Square(OLS):
+      It is an estimation technique for estimating unknown parameters in a linear regression model
+      to predict the response dependent variables(eg. B0,B1, etc)
 
-Linear Regression Assumptions
-  OLS makes the following assumption which need to be satisfied to get a reliable prediction results:
-    1. A1 Linearity: model is linear in parameters
-    2. A2 Random Sample: all observations in the sample are randomly selected
-    3. A3 Exogeneity: each independent variable is uncorrelated with the error terms
-    4. A4 Homoscedasticity: variance of all error terms is constant
-    5. A5 No Perfect MultiCollinearity: there are no exact linear relationship between the independent variables
+  Linear Regression Assumptions
+    OLS makes the following assumption which need to be satisfied to get a reliable prediction results:
+      1. A1 Linearity: model is linear in parameters
+      2. A2 Random Sample: all observations in the sample are randomly selected
+      3. A3 Exogeneity: each independent variable is uncorrelated with the error terms
+      4. A4 Homoscedasticity: variance of all error terms is constant
+      5. A5 No Perfect MultiCollinearity: there are no exact linear relationship between the independent variables
 
+  Pros
+    1. Simple model
+    2. Computationally efficient
+    3. High interpretability
+    4. Able to handle missing date
+
+  Cons
+    1. Overly-Simplisttic
+    2. Many Assumptions
+    3. Assumes Linearity
+    4. Prone to Outliners
+
+top 10 algorithms
+  1.Linear Regression
+  
