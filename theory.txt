@@ -1,0 +1,49 @@
+Supervised vs Unsupervised
+
+Supervised:
+ 1. Requires training data with independent variables & a dependent variables (labelled data)
+ 2. Need labelled data to "supervise" the algorithm when learning from the data
+ examples
+  -Regression Models
+  -Classification Models
+
+Unsupervised:
+ 1. Requires training data with independent variables only
+ 2. Not Need labelled data that can "supervise" the algorithm when learning from data
+ examples
+  -Clustering Models
+  -Outlier Detection Models
+
+Regression vs Classification
+
+Regression:
+ 1. Can be used when the response variable to be predicted is a continuous variable (scaler)
+ examples:
+  -Linear Regression, Fixed Effects Regression, XGBoost Regression
+
+Classification:
+ 1. Can be used when the response variable to be predicted is a continuous variable (scaler)
+ examples:
+  -Logistic Regression, XGBoost Classification
+
+Regression Performance Metrics
+
+RRS (Residual Sum Square)
+MSE (Mean Square Error)
+RMSE (Root Mean Square Error)
+MAE (Mean Absolute Error)
+
+Classification Performance Metrics
+
+Accuracy
+Precision
+Recall
+F-1 Score
+
+Clustering Performance Metrics
+
+Homogeneity
+Silhouette Score
+Completeness
+
+
