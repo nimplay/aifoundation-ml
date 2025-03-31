@@ -64,4 +64,18 @@ Step 5
     Test Error Rate
       Compute the performance metrics for your model using the predictions and real values of the target variable from your test data.
 
+Bias:
+
+Bias of machine Learning model is its inibility to capture the true relationship the data, methemetically equal the
+difference between the Expectation of model estimation and its true value
+
+Variance:
+
+Variance of Machine Learning model is the inconstancy level of model performance when applying it to different data Simplest
+ -When the same model that is trained using training data performs entirely different than on test data then model variance is high
+
+Error:
+
+Error of Machine Learning model assuming model is trained on (X1, Y1) (X2, Y2)...(Xn, Yn) to estimate the value of Y0
+
 
