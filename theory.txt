@@ -221,5 +221,13 @@ top 10 algorithms
         e. Chatbots (Client Support System)
         f. Bioinformatics
         h. Risk Analysis
+  5 Decision tree
+    Examples:
+        a. Medics Diagnostic
+        b. Marketing and Business
+        c. Finance
+        d. Data Structure Processing
+        e. Ecology
+        f. Recomendation System
   
 
