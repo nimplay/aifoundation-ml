@@ -238,11 +238,22 @@ top 10 algorithms
         d. Finance and Risk
         e. Maintain Predictive Industries
         f. Ecology and Environment Sciens
-  7 Bagging
+  7 Random Forest
     Examples:
-        a. Classification and Regression Problems
-        b. Images Processing  and Computing Vision
+        a. Medics Diagnostic
+        b. Marketing and Business
         c. Natural Language Processing
-        d. Finance and Risk
-        e. Maintain Predictive Industries
+        d. Finance and Bank
+        e. Images Processing  and Computing Vision
         f. Ecology and Environment Sciens
+        g. Informatic Security
+  8 Boosting or Ensamble Technique(AdaBoost, GBM, XGBoost)
+    Examples:
+        a. Medics Diagnostic
+        b. Marketing and Business
+        c. Natural Language Processing
+        d. Finance and Bank
+        e. Images Processing  and Computing Vision
+        f. Ecology and Environment Sciens
+        g. Informatic Security
+
