@@ -213,4 +213,13 @@ top 10 algorithms
         i. Geology
         j. Finance
   4 Naive Bayes
-    
+    Examples:
+        a. Natural Languaje Process
+        b. Medics Diagnostic
+        c. Marketing and Business
+        d. Pattern Reconigtion
+        e. Chatbots (Client Support System)
+        f. Bioinformatics
+        h. Risk Analysis
+  
+
