@@ -201,3 +201,16 @@ top 10 algorithms
         d. Credit Risk
         e. Churn Prediction
   3. Linear Discriminant Analysis
+      Examples:
+        a. Medics Diagnostic
+        b. Facial Reconigtion
+        c. Digital Marketing
+        d. Text Classification
+        e. Agriculture of Presition
+        f. Ecology
+        g. Industrial Quality
+        h. Genome
+        i. Geology
+        j. Finance
+  4 Naive Bayes
+    
