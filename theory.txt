@@ -229,5 +229,20 @@ top 10 algorithms
         d. Data Structure Processing
         e. Ecology
         f. Recomendation System
-  
-
+        g. Educational Data
+  6 Bagging
+    Examples:
+        a. Classification and Regression Problems
+        b. Images Processing  and Computing Vision
+        c. Natural Language Processing
+        d. Finance and Risk
+        e. Maintain Predictive Industries
+        f. Ecology and Environment Sciens
+  7 Bagging
+    Examples:
+        a. Classification and Regression Problems
+        b. Images Processing  and Computing Vision
+        c. Natural Language Processing
+        d. Finance and Risk
+        e. Maintain Predictive Industries
+        f. Ecology and Environment Sciens
