@@ -194,3 +194,10 @@ top 10 algorithms
         e. Academic Performance
         f. Energy Consumption
   2. Logistic Regression
+      Examples:
+        a. Medics Diagnostic
+        b. Span Detection
+        c. Digital Marketing
+        d. Credit Risk
+        e. Churn Prediction
+  3. Linear Discriminant Analysis
