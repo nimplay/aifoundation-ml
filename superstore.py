@@ -41,3 +41,12 @@ print(sales_per_segment)
 # print sales per segment
 plt.bar(sales_per_segment['Type Of Customer'], sales_per_segment['Total Sales'])
 plt.show()
+plt.pie(sales_per_segment['Total Sales'], labels=sales_per_segment['Type Of Customer'], autopct='%1.1f%%')
+plt.show()
+
+# customers order of frecuency
+customer_order_frecuency = df.groupby(['Customer ID', 'Customer Name', 'Segment'])['Order ID'].count().reset_index()
+customer_order_frecuency = customer_order_frecuency.rename(columns={'Order ID': 'Total Orders'})
+repeat_customers = customer_order_frecuency[customer_order_frecuency['Total Orders'] >= 1]
+repeat_customers_sorted = repeat_customers.sort_values(by='Total Orders', ascending=False)
+print(repeat_customers_sorted.head(12).reset_index(drop=True))
