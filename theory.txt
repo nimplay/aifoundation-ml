@@ -247,7 +247,7 @@ top 10 algorithms
         e. Images Processing  and Computing Vision
         f. Ecology and Environment Sciens
         g. Informatic Security
-  8 Boosting or Ensamble Technique(AdaBoost, GBM, XGBoost)
+  8 Boosting or Ensamble Technique AdaBoost
     Examples:
         a. Medics Diagnostic
         b. Marketing and Business
@@ -256,4 +256,23 @@ top 10 algorithms
         e. Images Processing  and Computing Vision
         f. Ecology and Environment Sciens
         g. Informatic Security
+  9 Boosting or Ensamble Technique  GBM
+    Examples:
+        a. Medics Diagnostic
+        b. Marketing and Business
+        c. Natural Language Processing
+        d. Finance and Bank
+        e. Images Processing  and Computing Vision
+        f. Ecology and Environment Sciens
+        g. Informatic Security
+  10 Boosting or Ensamble Technique XGBoost
+    Examples:
+        a. Medics Diagnostic
+        b. Marketing and Business
+        c. Natural Language Processing
+        d. Finance and Bank
+        e. Images Processing  and Computing Vision
+        f. Ecology and Environment Sciens
+        g. Informatic Security
+
 
