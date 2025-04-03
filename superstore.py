@@ -31,3 +31,13 @@ print(number_of_customers)
 
 plt.pie(number_of_customers['count'], labels=number_of_customers['Type Of Customers'], autopct='%1.1f%%')
 plt.show()
+
+# sales per segment
+sales_per_segment = df.groupby('Segment')['Sales'].sum().reset_index()
+sales_per_segment = sales_per_segment.rename(columns={'Segment': 'Type Of Customer', 'Sales': 'Total Sales'})
+
+print(sales_per_segment)
+
+# print sales per segment
+plt.bar(sales_per_segment['Type Of Customer'], sales_per_segment['Total Sales'])
+plt.show()
